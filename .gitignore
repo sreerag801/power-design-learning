@@ -1,0 +1,17 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/PowerDataCoreLib
+/CQRS/bin/Debug/netcoreapp3.1
+/CQRS/obj
+/PowerAPI/bin/Debug/netcoreapp3.1
+/PowerAPI/obj
+/PowerAPI.Tests/bin/Debug/netcoreapp3.1
+/PowerAPI.Tests/obj
+/PowerDataCoreLib/bin/Debug/netcoreapp3.1
+/PowerDataCoreLib/obj
+/PowerDataLib.Test/bin/Debug/netcoreapp3.1
+/PowerDataLib.Test/obj
+/PowerToolLib/bin/Debug/netcoreapp3.1
+/PowerToolLib/obj
